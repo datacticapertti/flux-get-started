@@ -1,0 +1,1 @@
+{"jobID":"3ab6e68c-e214-8f31-ad54-86204ad83aad","spec":{"type":"policy","cause":{"Message":"","User":"Pertti Kellomäki \u003cpertti.kellomaki@datactica.fi\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
