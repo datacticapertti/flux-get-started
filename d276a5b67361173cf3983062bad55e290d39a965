@@ -1,0 +1,1 @@
+{"jobID":"d07dbe51-9e2f-5022-c0cc-2ef84c6af3bd","spec":{"type":"policy","cause":{"Message":"1.4.1 had problems","User":"Pertti Kellomäki \u003cpertti.kellomaki@datactica.fi\u003e"},"spec":{"demo:deployment/podinfo":{"add":{},"remove":{"locked":"true","locked_msg":"true","locked_user":"true"}}}},"result":null}
